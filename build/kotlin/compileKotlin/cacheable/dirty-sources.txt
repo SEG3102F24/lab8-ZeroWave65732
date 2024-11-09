@@ -1,7 +1,0 @@
-C:\Users\willl\OneDrive\Documents\GitHub\lab8-ZeroWave65732\src\main\kotlin\seg3x02\employeeGql\entity\Employee.kt
-C:\Users\willl\OneDrive\Documents\GitHub\lab8-ZeroWave65732\src\main\kotlin\seg3x02\employeeGql\configuration\WebSecurityConfig.kt
-C:\Users\willl\OneDrive\Documents\GitHub\lab8-ZeroWave65732\src\main\kotlin\seg3x02\employeeGql\repository\EmployeesRepository.kt
-C:\Users\willl\OneDrive\Documents\GitHub\lab8-ZeroWave65732\src\main\kotlin\seg3x02\employeeGql\resolvers\EmployeesResolver.kt
-C:\Users\willl\OneDrive\Documents\GitHub\lab8-ZeroWave65732\src\main\kotlin\seg3x02\employeeGql\EmployeeGqlApplication.kt
-C:\Users\willl\OneDrive\Documents\GitHub\lab8-ZeroWave65732\src\main\kotlin\seg3x02\employeeGql\configuration\WebConfiguration.kt
-C:\Users\willl\OneDrive\Documents\GitHub\lab8-ZeroWave65732\src\main\kotlin\seg3x02\employeeGql\resolvers\types\CreateEmployeeInput.kt
