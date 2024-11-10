@@ -8,7 +8,7 @@ data class Employee(
         val name: String,
         val dateOfBirth: String,
         val city: String,
-        val salary: Float,
+        val salary: Int,
         val gender: String?,
         val email: String?
 ) {

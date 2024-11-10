@@ -4,7 +4,7 @@ class CreateEmployeeInput (
     val name: String = "",
     val dateOfBirth: String  = "",
     val city: String = "",
-    val salary: Float = 50000.0f,
+    val salary: Int = 0,
     val gender: String? = "",
-    val email: String?  = ""
+    val email: String = ""
 )

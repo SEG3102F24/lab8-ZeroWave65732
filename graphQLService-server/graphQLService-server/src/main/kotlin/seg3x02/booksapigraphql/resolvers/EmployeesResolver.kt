@@ -33,7 +33,8 @@ class EmployeesResolver(private val mongoOperations: MongoOperations,
             gender = input.gender,
             email = input.email
         )
-        return employeesRepository.save(employee)
+        employeesRepository.save(employee)
+        return employee
 
     }
 }
